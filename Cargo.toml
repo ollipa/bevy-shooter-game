@@ -1,0 +1,9 @@
+[package]
+name = "bevy-shooter-game"
+version = "0.1.0"
+authors = ["ollipa <olli@paakkunainen.fi>", "Adarsh Krishnan <adarshk7@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bevy = "0.4"
+rand = "0.8"
